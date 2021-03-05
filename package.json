@@ -49,7 +49,7 @@
     "react-native-screens": "^2.16.1",
     "react-native-svg": "^11.0.1",
     "react-native-vector-icons": "^6.7.0",
-    "react-native-webview": "^8.2.1",
+    "react-native-webview": "^11.0.0",
     "react-native-xml2js": "^1.0.3",
     "react-navigation": "^4.4.3",
     "socket.io-client": "^3.1.0",
